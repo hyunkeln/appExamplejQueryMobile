@@ -5,7 +5,7 @@ name: Mostrar tweets en una aplicación de jQuery Mobile
 authors: 
 	 -Geraldine Macias  @geralOE geral.oe@gmail.com
 resources: 
-	 - /js/jquery.tweets.0.1.js
+	 - js/jquery.tweets.0.1.js
 */
 
 

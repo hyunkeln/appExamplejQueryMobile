@@ -6,7 +6,7 @@ description: Aplicación de ejemplo de jQuery Mobile, que muestra tweets de una 
 authors: 
 	 - Geraldine Macias @geralOE geral.oe@gmail.com
 resources: 
-	 - https://raw.github.com/kerberoS/jQuery-Tweets/master/js/jquery.tweets.0.1.js
+	 - js/jquery.tweets.0.1.js
 normalize_css: no
 ...
 */ 

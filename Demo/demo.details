@@ -1,5 +1,5 @@
-<p>Aplicación de ejemplo de jQuery Mobile, que muestra tweets de una cuenta. Demo en jsfiddle </p> 
 
+/*
 ---
 name: Mostrar tweets en una aplicación de jQuery Mobile
 description: Aplicación de ejemplo de jQuery Mobile, que muestra tweets de una cuenta. Demo en jsfiddle 
@@ -8,3 +8,8 @@ authors:
 resources: 
 	 - /Demo/js/jquery.tweets.0.1.js
 normalize_css: no
+...
+*/
+
+
+<p>Aplicación de ejemplo de jQuery Mobile, que muestra tweets de una cuenta. Demo en jsfiddle </p> 

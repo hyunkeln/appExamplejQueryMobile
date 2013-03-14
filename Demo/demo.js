@@ -8,4 +8,4 @@ window.addEvent('domready', function() {
     before:  '<div class="bordesito">',
     after: '</div>'
   });
-});
+}); 

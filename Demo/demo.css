@@ -9,7 +9,7 @@ body {
 }
 
 #tweets li {
-    list-style:none;
+    list-style:none; 
     padding:5px;
 }
 

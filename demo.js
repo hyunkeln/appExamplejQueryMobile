@@ -1,11 +1,11 @@
-/**
-* info js
-*/
 window.addEvent('domready', function() {
-$('#tweets').tweets({
-    tweets:10,
-    username: "ilovejQuery",
-    before:  '<div class="bordesito">',
-    after: '</div>'
-});
-});
+	new Request.HTML({
+		url: '/gh/get/response.html/zalun/jsFiddleGithubDemo/tree/master/Demo/',
+		data: {'delay': 1},
+		method: 'post',
+		update: 'demo',
+		onSuccess: function(response) {
+			$('demo').highlight();
+		}
+	}).send();
+})

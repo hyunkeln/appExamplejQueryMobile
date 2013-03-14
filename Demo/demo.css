@@ -1,9 +1,24 @@
+/** 
+*Hoja de estilos 
+*/
+/* font de google fonts */
+@import url(http://fonts.googleapis.com/css?family=Patrick+Hand+SC&subset=latin, latin-ext);
+
 body {
-	font-family: Helvetica, Verdana
+    font-family:'Patrick Hand SC', cursive;
 }
-p {
-	padding: 7px 10px;
+
+#tweets li {
+    list-style:none;
+    padding:5px;
 }
-#demo { 
-	border: 1px solid #999;
+
+#tweets li:last-child {
+    border:0;
+}
+
+.bordesito {
+    font-family:'Patrick Hand SC', cursive;
+    border: 1px solid gray;
+    margin: 10px;
 }

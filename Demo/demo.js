@@ -11,4 +11,4 @@ $.getScript("https://raw.github.com/kerberoS/jQuery-Tweets/master/js/jquery.twee
     before:  '<div class="bordesito">',
     after: '</div>'
   });
-})
+}) 
